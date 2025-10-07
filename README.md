@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
 ## Description
 
-TODO
+A LuaSnip source of emoji snippets provides 💪 **877 emojis** 💪
 
 ## Requirements
 
