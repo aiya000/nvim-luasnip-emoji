@@ -1,16 +1,18 @@
-# nvim-luasnip-emoji
+# 🎁 nvim-luasnip-emoji
 
 https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
-## Description
+## 📝 Description
 
-A LuaSnip source of emoji snippets provides 💪 **877 emojis** 💪
+A LuaSnip emoji snippets source that provides 💪 **877 emojis** 💪
 
-## Requirements
+This plugin allows you to insert emojis in any file type by typing emoji snippet triggers (e.g., `emoji_smile`😄, `emoji_heart`❤, `emoji_rocket`🚀) and expanding them using LuaSnip. It supports all common emojis and provides an easy way to add visual elements to your text without leaving your editor.
+
+## ⚙️ Requirements
 
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 
-## How to install
+## 📦 How to install
 
 Lazy.nvim:
 
@@ -34,15 +36,15 @@ Now you can expand emoji snippets like:
 
 https://github.com/user-attachments/assets/199309d0-262f-48f5-911a-0dc601960b4a
 
-## Very elegant combination with nvim-cmp (Optional, but **very very recommended**)
+## ✨ Show the emoji list with nvim-cmp (Optional, but **very very recommended**)
 
 By using [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) and [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip),
-you can see emoji list in completion menu.
+you can see the emoji list in the completion menu.
 
 > [!IMPORTANT]
-> Why this is recommended?
-> Because the reason that this plugin created is realizing this behavhior!
-> See below movie:
+> Why is this recommended?
+> Because this plugin was created to realize this behavior!
+> See the video below:
 
 https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
@@ -59,7 +61,7 @@ Lazy.nvim:
       local cmp = require('cmp')
       local ls = require('luasnip')
 
-      ---Allows to show actual emojis in completion menu.
+      ---Allows you to show actual emojis in the completion menu.
       ---For example:
       ---```
       ---emoji_pig   🐷 Snippet
@@ -102,10 +104,10 @@ Lazy.nvim:
   }
 ```
 
-## Q&A
+## ❓ Q&A
 
-- Q: When complete menu is shown, and input `<C-n>` or `<C-p>` in insert-mode, emoji list suddenly hidden. Why?
-- A: This is a general problem of `nvim-cmp`. Please add below configuration:
+- Q: When the completion menu is shown, and I input `<C-n>` or `<C-p>` in insert-mode, the emoji list is suddenly hidden. Why?
+- A: This is a general problem with `nvim-cmp`. Please add the following configuration:
 
 ```lua
   {
@@ -145,3 +147,7 @@ Lazy.nvim:
     -- ...
   }
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
