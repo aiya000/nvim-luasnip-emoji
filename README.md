@@ -1,4 +1,4 @@
-# 😀 nvim-luasnip-emoji
+# 🎁 nvim-luasnip-emoji
 
 https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
 A LuaSnip emoji snippets source that provides 💪 **877 emojis** 💪
 
-This plugin allows you to insert emojis in any file type by typing emoji snippet triggers (e.g., `emoji_smile`, `emoji_heart`, `emoji_rocket`) and expanding them using LuaSnip. It supports all common emojis and provides an easy way to add visual elements to your text without leaving your editor.
+This plugin allows you to insert emojis in any file type by typing emoji snippet triggers (e.g., `emoji_smile`😄, `emoji_heart`❤, `emoji_rocket`🚀) and expanding them using LuaSnip. It supports all common emojis and provides an easy way to add visual elements to your text without leaving your editor.
 
 ## ⚙️ Requirements
 
@@ -36,7 +36,7 @@ Now you can expand emoji snippets like:
 
 https://github.com/user-attachments/assets/199309d0-262f-48f5-911a-0dc601960b4a
 
-## ✨ Very elegant combination with nvim-cmp (Optional, but **very very recommended**)
+## ✨ Show the emoji list with nvim-cmp (Optional, but **very very recommended**)
 
 By using [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) and [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip),
 you can see the emoji list in the completion menu.
