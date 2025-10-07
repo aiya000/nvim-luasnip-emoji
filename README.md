@@ -1,6 +1,6 @@
 # nvim-luasnip-emoji
 
-TODO: Add listing.mp4 here
+https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
 ## Description
 
@@ -32,7 +32,7 @@ Now you can expand emoji snippets like:
 - `emoji_yum` → `😋`
 - `emoji_smile` → `😄`
 
-TODO: Add expand.mp4 here
+https://github.com/user-attachments/assets/199309d0-262f-48f5-911a-0dc601960b4a
 
 ## Very elegant combination with nvim-cmp (Optional, but **very very recommended**)
 
@@ -44,7 +44,7 @@ you can see emoji list in completion menu.
 > Because the reason that this plugin created is realizing this behavhior!
 > See below movie:
 
-TODO: Add listing.mp4 here
+https://github.com/user-attachments/assets/1c216165-2f0a-4d9c-b9a9-f5cbba8a1bab
 
 Lazy.nvim:
 
